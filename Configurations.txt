@@ -1,0 +1,13 @@
+# On Mac OS\
+\
+First - python3 -m venv mychatbot\
+\
+Second - source mychatbot/bin/activate\
+\
+Third - pip install langchain langchain-ollama ollama\
+Collecting langchain\
+\
+Can run with - python3 main.py\
+\
+\
+}
